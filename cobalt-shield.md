@@ -1,5 +1,5 @@
 # 🛡 Cobalt Shield Initiative
-
+![Cobalt Shield Preview](./bbplan.png)
 **Mission:**  
 Protect and empower African youth through digital safety, clean tech awareness, and innovation training.
 
