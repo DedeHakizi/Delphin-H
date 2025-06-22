@@ -21,6 +21,13 @@ I’m building long-term digital systems to empower African tech, education, and
 > "Africa Forward. Loyalty Over Everything."
 
 ---
+---
 
-📫 Contact: dedehakiza@icloud.com  
-🌍 Live Projects coming soon!
+## 🤝 Hire Me / Partner With Me
+
+Whether you're looking for collaboration, startup partnerships, automation consulting, or ethical tech strategy — let’s connect.
+
+📧 Email: dedehakiza@icloud.com  
+📞 WhatsApp: +306986761215  
+🌍 Portfolio: [dedehakizi.github.io/Delphin-H](https://dedehakizi.github.io/Delphin-H/)
+
