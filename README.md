@@ -2,11 +2,10 @@
 **🛡 CEO of Cobalt Shield | 🧱 Builder of Family Empire | 🎧 Founder of DedeMusic**
 
 ---
-
 ## 🚀 Current Projects  
-- 🛡 [Cobalt Shield Initiative](https://github.com/DedeHakizi/Colbalt-shield)  
-- 🏨 [Family Empire Booking](https://github.com/DedeHakizi/family-empire)  
-- 🎵 [DedeMusic Studio](https://github.com/DedeHakizi/dedemusic)  
+- 🛡 [Cobalt Shield Initiative](./cobalt-shield.md)  
+- 🏨 [Family Empire Booking](./family-empire.md) ← coming next  
+- 🎵 [DedeMusic Studio](./dedemusic.md) ← coming next
 
 ---
 
